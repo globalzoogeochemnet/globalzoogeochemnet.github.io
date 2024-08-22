@@ -19,17 +19,17 @@ locale                   : "en-US"
 
 # Social Sharing
 twitter: 
-  username               : &twitter "ZoogeochemNet"
+  username               : 
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: https://x.com/ZoogeochemNet
+       url: "https://x.com/ZoogeochemNet"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: https://github.com/globalzoogeochemnet
+       url: "https://github.com/globalzoogeochemnet"
 
 # Pagination with jekyll-paginate
 paginate: 5 # amount of posts to show
