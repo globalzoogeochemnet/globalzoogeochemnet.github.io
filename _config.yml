@@ -7,7 +7,6 @@ teaser: "/assets/images/poster.png"
 logo: "/assets/images/favicon.io"
 words_per_minute         : 200
 
-
 theme: jekyll-theme-minimal-mistakes
 
 plugins:
@@ -22,14 +21,6 @@ twitter:
   username               : 
 
 # Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-       url: "https://x.com/ZoogeochemNet"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-       url: "https://github.com/globalzoogeochemnet"
 
 # Pagination with jekyll-paginate
 paginate: 5 # amount of posts to show
