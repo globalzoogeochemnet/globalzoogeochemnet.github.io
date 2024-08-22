@@ -1,2 +1,0 @@
-# globalzoogeochemnet.github.io
-
