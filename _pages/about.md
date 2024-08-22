@@ -1,7 +1,7 @@
 ---
-layout: splash
-permalink: /
-hidden: true
+layout: page
+title: "About"
+permalink: /home/
 header: /assets/images/header.png
 excerpt: >
   The Alchemists of the Wild
@@ -33,7 +33,7 @@ feature_row:
     alt: "liesbeth"
     title: "Liesbeth Bakker"
 
-feature_row:
+feature_row_2:
   - image_path: /assets/images/liza.png
     alt: "liza"
     title: "Elizabeth le Roux"
