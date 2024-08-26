@@ -2,7 +2,8 @@ title: "The Global Zoogeochemistry Network"
 title_separator : "-"
 subtitle: "Alchemists of the Wild"
 logo: "/assets/images/poster.png"
-
+baseurl: ""
+url: "https://globalzoogeochemnet.github.io"
 locale: "en-GB"
 search: true
 enable_copy_code_button: true
