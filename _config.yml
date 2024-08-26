@@ -10,12 +10,12 @@ enable_copy_code_button: true
 
 # Build settings
 markdown: kramdown
-#remote_theme: mmistakes/minimal-mistakes
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
+#theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: default # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" https://mmistakes.github.io/minimal-mistakes/docs/configuration/#skin
 incremental: true
 livereload: true
-destination: docs/
+#destination: docs/
 #relative_links: # the plugin is disabled but see https://github.com/benbalter/jekyll-relative-links
 #  enabled: true
 #  collections: true
@@ -41,9 +41,6 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-keep_files:
-  - docs/CNAME
 
 # Plugins (previously gems:)
 plugins:
