@@ -3,7 +3,7 @@ title: "Zoogeochemistry: Alchemists of the Wild"
 description: "Alchemists of the Wild"
 layout: single
 order: 1
-#permalink: /about/
+permalink: /about/
 author_profile: false
 header:
   excerpt: "This piece of text could be shown on top of the overlay_image, just under the title"
