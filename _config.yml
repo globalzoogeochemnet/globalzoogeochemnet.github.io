@@ -72,7 +72,6 @@ defaults:
     values:
       author_profile: false
       layout: single
-      classes: single-column
       header:
         excerpt: "This piece of text could be shown on top of the overlay_image, just under the title"
         show_overlay_excerpt: false
