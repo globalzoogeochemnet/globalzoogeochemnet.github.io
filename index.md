@@ -1,6 +1,6 @@
 ---
 title: "Zoogeochemistry: Alchemists of the Wild"
-description: "Alchemists of the Wild"
+description: ""
 layout: single
 order: 1
 #permalink: /about/
