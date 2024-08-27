@@ -1,6 +1,7 @@
 title: "The Global Zoogeochemistry Network"
 title_separator : "-"
 subtitle: "Home"
+description: ""
 logo: "/assets/images/poster.png"
 baseurl: ""
 url: "https://globalzoogeochemnet.github.io"
