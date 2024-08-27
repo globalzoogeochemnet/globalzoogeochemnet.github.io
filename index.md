@@ -1,6 +1,6 @@
 ---
 title: "The Global Zoogeochemistry Network"
-description: "Alchemists of the Wild"
+subtitle: "Alchemists of the Wild"
 layout: single
 order: 1
 #permalink: /about/

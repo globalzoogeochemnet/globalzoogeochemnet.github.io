@@ -1,9 +1,0 @@
-main:
-# - title: "About Us"
-#   url: /about/
-  - title: "Zoogeochem Databases"
-    url: /databases/
-  - title: "Courses & Workshops"
-    url: /courses/
-  - title: "News & Updates"
-    url: /news/
