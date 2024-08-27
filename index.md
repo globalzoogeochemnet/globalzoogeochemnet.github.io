@@ -44,9 +44,9 @@ feature_row3:
 ---
 
 ### About Us
+---
 
-
-We are newly formed network of scientists working on different aspects of zoogeochemistry. We are interested in ways in which animals are shaping nutrient landscapes from a broad perspective, beyond any particular animal taxonomic group, spatial scale or ecosystem.
+We are newly formed network of scientists working on different aspects of zoogeochemistry. We are interested in the multitude of ways in which animals are shaping nutrient landscapes. We consider this from a broad perspective, focusing on the role that animals play in nutrient cycling, spatial distribution and elemental stoichiometry... Our focus is thus broader than any particular animal taxonomic group, spatial scale or ecosystem.
 
 Our overarching vision for this network is to create a platform for collaboration that will promote coordinated, multi-site research projects that will allow for student exchange between systems and participants, cross-disciplinary knowledge exchange and joint funding application development to scale up the impact and reach of zoogeochemistry research.
 
