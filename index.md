@@ -1,9 +1,10 @@
 ---
-title: "Zoogeochemistry: Alchemists of the Wild"
+title: "The Global Zoogeochemistry Network"
+description: "Alchemists of the Wild"
 layout: single
 order: 1
 #permalink: /about/
-classes: wide
+classes: narrow
 author_profile: false
 header:
   excerpt: "This piece of text could be shown on top of the overlay_image, just under the title"
