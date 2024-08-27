@@ -1,5 +1,5 @@
 ---
-title: "The Global Zoogeochemistry Network"
+title: "Zoogeochemistry: Alchemists of the Wild"
 description: "Alchemists of the Wild"
 layout: single
 order: 1
