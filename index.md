@@ -1,5 +1,5 @@
 ---
-title: "About Us"
+title: "Zoogeochemistry: Alchemists of the Wild"
 layout: single
 order: 1
 #permalink: /about/

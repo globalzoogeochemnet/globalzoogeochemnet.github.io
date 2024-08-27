@@ -1,6 +1,6 @@
 title: "The Global Zoogeochemistry Network"
 title_separator : "-"
-subtitle: "Alchemists of the Wild"
+subtitle: "Home"
 logo: "/assets/images/poster.png"
 baseurl: ""
 url: "https://globalzoogeochemnet.github.io"
@@ -76,12 +76,12 @@ defaults:
       header:
         excerpt: "This piece of text could be shown on top of the overlay_image, just under the title"
         show_overlay_excerpt: false
-        overlay_image: assets/images/landscape_cundinamarca.jpg
+        overlay_image: assets/images/header.png
         overlay_filter: 0.1
 #       overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5)) # can also be a colourful gradient
 
 #      header: # just an image, higher than the overlay_image
-#        image: assets/images/landscape_cundinamarca.jpg
+#        image: assets/images/header.png
 #        image_description: "A description of the image"
 
 category_archive:
