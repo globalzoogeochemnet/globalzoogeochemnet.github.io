@@ -28,9 +28,9 @@ feature_row2:
   - image_path: /assets/images/liza.jpg
     alt: "liza"
     title: "<a href='https://www.au.dk/en/eleroux@bio.au.dk'>Elizabeth le Roux</a>"
-  - image_path: /assets/images/harry.jpg
+  - image_path: /assets/images/harry.webp
     alt: "harry"
-    title: "<a href='https://functionalecology.wordpress.com/publications-harry-olde-venterink/'>Harry Olde Venterink</a>"
+    title: "<a href='https://functionalecology.wordpress.com/about-harry/'>Harry Olde Venterink</a>"
 feature_row3:
   - image_path: /assets/images/ridwan.png
     alt: "ridwan"
