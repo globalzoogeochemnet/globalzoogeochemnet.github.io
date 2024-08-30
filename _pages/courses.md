@@ -32,5 +32,9 @@ We requested folks to submit at least 5 publications that they consider formed a
 <img src="https://globalzoogeochemnet.github.io/assets/images/group-aarhus.JPG"  align="center" width="600">
 </p>
 
+<p align="center">
+<img src="https://globalzoogeochemnet.github.io/assets/images/aarhus-workshop.jpeg"  align="center" width="600">
+</p>
+
 [aarhus]: <https://aias.au.dk/>
 [zotero]: <https://www.researchrabbitapp.com/collection/public/8ZMNK3PQ6Q>
