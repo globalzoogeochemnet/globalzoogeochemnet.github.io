@@ -33,7 +33,7 @@ We requested folks to submit at least 5 publications that they consider formed a
 </p>
 
 <p align="center">
-<img src="https://globalzoogeochemnet.github.io/assets/images/aarhus-workshop.jpeg"  align="center" width="600">
+<img src="https://globalzoogeochemnet.github.io/assets/images/arrhus-workshop.jpg"  align="center" width="700">
 </p>
 
 [aarhus]: <https://aias.au.dk/>
