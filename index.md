@@ -30,7 +30,7 @@ feature_row2:
     title: "<a href='https://www.au.dk/en/eleroux@bio.au.dk'>Elizabeth le Roux</a>"
   - image_path: /assets/images/harry.webp
     alt: "harry"
-    title: "<a href='https://https://wild.paddlecms.net/harry-olde-venterink-0'>Harry Olde Venterink</a>"
+    title: "<a href='https:wild.paddlecms.net/harry-olde-venterink-0'>Harry Olde Venterink</a>"
 feature_row3:
   - image_path: /assets/images/ridwan.png
     alt: "ridwan"
@@ -68,7 +68,7 @@ This newly formed scientific research network is supported by the [Research Foun
 [nacho]:           <https://nachoprad.wixsite.com/nachovillar>
 [liesbeth]:        <https://nioo.knaw.nl/nl/employees/liesbeth-bakker>
 [liza]:            <https://www.au.dk/en/eleroux@bio.au.dk>
-[harry]:           <https://functionalecology.wordpress.com/publications-harry-olde-venterink/>
-[ridwan]:          <https://researchportal.vub.be/en/persons/ridwan-jaafar>
+[harry]:           <https://wild.paddlecms.net/harry-olde-venterink-0>
+[ridwan]:          <https://wild.paddlecms.net/ridwan-muhammad-jaafar>
 [jonas]:           <https://www.uantwerpen.be/en/staff/jonas-schoelynck/>
 [fwo]:             <https://www.fwo.be/en/>
